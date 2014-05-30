@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/!svn/ver/1551/BMOChina/Public/Source/getter/branches/final_check_station/src/getter
+END
+verify_spd.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/!svn/ver/1453/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/verify_spd.py
+END
+simplexml.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/!svn/ver/1526/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/simplexml.py
+END
+prog_spd.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/1453/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/prog_spd.py
+END
+verify_vpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/!svn/ver/1453/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/verify_vpd.py
+END
+prog_vpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/1453/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/prog_vpd.py
+END
+buff.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/1467/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/buff.py
+END
+scan_sn.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/1526/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/scan_sn.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/1551/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/main.py
+END
+final_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/!svn/ver/1485/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/final_check.py
+END
+spd.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/!svn/ver/1467/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/spd.py
+END
+rawfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/1453/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/rawfile.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/!svn/ver/1464/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/error.py
+END
+vpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/!svn/ver/1467/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/vpd.py
+END
+pcolor.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/!svn/ver/1468/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/pcolor.py
+END
+save_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/1443/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/save_log.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/!svn/ver/1422/BMOChina/Public/Source/getter/branches/final_check_station/src/getter/__init__.py
+END

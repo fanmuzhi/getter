@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DUT>
+    <Project name="AGIGA8601-400BCA" revision="10">
+        <vpd_enable>1</vpd_enable>
+        <vpd_addr>0x10</vpd_addr>
+        <vpd_file>D:/AGIGA/VPD EEPROM/AGIGA8601-400BCA/101-40035-01-Rev02-AGIGA8601-400BCA-Coronado 4GB for Diamond VPD.ebf</vpd_file>
+        <vpd_size>1024</vpd_size>
+        <vpd_aa_bitrate>100</vpd_aa_bitrate>
+        <vpd_aa_slave_address>16</vpd_aa_slave_address>
+        <spd_enable>1</spd_enable>
+        <spd_addr>0x50</spd_addr>
+        <spd_file>D:/AGIGA/SPD/AGIGA8601-400BCA/101-40020-01-Rev02-Coronado-Diamond-SPD-Inphi_Register-Micron_SDRAM-4GB.bin</spd_file>
+        <spd_size>256</spd_size>
+        <spd_aa_bitrate>100</spd_aa_bitrate>
+		<spd_aa_slave_address>80</spd_aa_slave_address>
+        <fw_version>V0.66</fw_version>
+        <hw_version>04</hw_version>
+    </Project> 
+    <Project name="AGIGA8601-200BCA" revision="07">
+        <vpd_enable>1</vpd_enable>
+        <vpd_addr>0x10</vpd_addr>
+        <vpd_file>D:/AGIGA/VPD EEPROM/AGIGA8601-200BCA/101-40039-01 Rev02-AGIGA8601-200BCA-Coronado 2GB VPD.ebf</vpd_file>
+        <vpd_size>1024</vpd_size>
+        <vpd_aa_bitrate>100</vpd_aa_bitrate>
+        <vpd_aa_slave_address>16</vpd_aa_slave_address>
+        <spd_enable>0</spd_enable>
+        <spd_addr>0x50</spd_addr>
+        <spd_file>D:/AGIGA/SPD/AGIGA8601-200BCA/101-40038-01-Rev01-Coronado-SPD-Inphi_Register-Micron_SDRAM-2Gb-800MHz.bin</spd_file>
+        <spd_size>256</spd_size>
+        <spd_aa_bitrate>100</spd_aa_bitrate>
+		<spd_aa_slave_address>80</spd_aa_slave_address>
+        <fw_version>V0.66</fw_version>
+        <hw_version>04</hw_version>
+    </Project> 
+    <Project name="AGIGA8601-200BCA" revision="09">
+        <vpd_enable>1</vpd_enable>
+        <vpd_addr>0x10</vpd_addr>
+        <vpd_file>D:/AGIGA/VPD EEPROM/AGIGA8601-200BCA/101-40039-01 Rev02-AGIGA8601-200BCA-Coronado 2GB VPD.ebf</vpd_file>
+        <vpd_size>1024</vpd_size>
+        <vpd_aa_bitrate>100</vpd_aa_bitrate>
+        <vpd_aa_slave_address>16</vpd_aa_slave_address>
+        <spd_enable>1</spd_enable>
+        <spd_addr>0x50</spd_addr>
+        <spd_file>D:/AGIGA/SPD/AGIGA8601-200BCA/101-40038-01-Rev01-Coronado-SPD-Inphi_Register-Micron_SDRAM-2Gb-800MHz.bin</spd_file>
+        <spd_size>256</spd_size>
+        <spd_aa_bitrate>100</spd_aa_bitrate>
+		<spd_aa_slave_address>80</spd_aa_slave_address>
+        <fw_version>V0.66</fw_version>
+        <hw_version>04</hw_version>
+    </Project> 
+</DUT>
