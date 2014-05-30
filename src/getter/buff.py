@@ -133,4 +133,4 @@ if __name__ == "__main__":
     if(result is None):
         print result
     else:
-        print "Error: value is none"
+        print "Error: value is none "
